@@ -13,6 +13,13 @@ html {
   min-height: 100%;
 }
 
+h1 {
+    color: #552f99;
+    font-family: arial, sans-serif;
+    font-weight: lighter;
+}
+
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #EEE;
 }

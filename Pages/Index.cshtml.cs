@@ -14,7 +14,6 @@ namespace ContainerAppDemo.Pages
 
         public void OnGet()
         {
-
         }
     }
 }
